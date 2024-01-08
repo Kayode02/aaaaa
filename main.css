@@ -1,0 +1,33 @@
+body {
+    font-family: "roboto", sans-serif;
+}
+.navbar {
+    background-color: rgb(167, 22, 224);
+}
+.nav .nav-link.active { 
+background-color: black;
+color: white;
+}
+.nav .nav-link {
+    color: black;
+}
+.seila {
+    font-family: 'Lora', serif;
+    color: white;
+}
+
+.ti {
+    font-family: 'Lora', serif;
+}
+
+.social li {
+    list-style: none;
+    display: inline;
+}
+.social a {
+    text-decoration: none;
+}
+
+i {
+    color: rgb(167, 22, 224);
+}
